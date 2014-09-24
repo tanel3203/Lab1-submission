@@ -322,7 +322,7 @@ Answer	from Company Administration	20	It should run on any software platform tha
 		REQ_U2	"Any necessary included operations shall be possible to be executed at a maximum of three levels. 
       E.g 1. POS first page - New order -> 2. Order page - Enter necessary information -> 3. Payment page"
 		REQ_U3	The program shall contain a Help option with information about the program and how to use it.
-		REQ_U4	The program shall give users the access depending on their level of access
+		REQ_U4	The program shall give users the access depending on their user level of access
 		REQ_U5	The program will only have horizontal scroll for easy understanding of the systrem
 		REQ_U6	The program shall contain large buttons for easy accessibility
 		REQ_U7	Error messages should explain how to recover from error.
